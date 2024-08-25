@@ -5,19 +5,15 @@
   </a>
 </div>
 
-
-
 <h1 align="center">Hi 👋, I'm Max!</h1>
 <h3 align="center">A BSCS student from UP Mindanao</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maksdeb-g&label=Profile%20views&color=0e75b6&style=flat" alt="maksdeb-g" />
+  <img src="https://komarev.com/ghpvc/?username=maksdeb-g&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 - 🌱 I’m currently diving into **React.js** and **Next.js**
-  
 - 🎯 My goal is to become proficient in **front-end development**
-
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 15 seconds!**
 
 ---
@@ -76,6 +72,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maksdeb-g&show_icons=true&theme=radical" alt="maksdeb-g stats" />
 </p>
-
----
-

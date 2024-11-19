@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=maksdeb-g&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-- 🌱 I’m currently diving into **React.js** and **Next.js**
+- 🌱 I’m currently diving into **React.js**, **Next.js**, and **AWS Technologies**
 - 🎯 My goal is to become proficient in **front-end development**
 - ⚡ Fun fact: **I can solve a Rubik's cube in under 15 seconds!**
 

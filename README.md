@@ -20,7 +20,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/maxwell-gazo" target="_blank">
+  <a href="https://www.linkedin.com/in/mxdave/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://facebook.com/maxwell.gazo" target="_blank">
